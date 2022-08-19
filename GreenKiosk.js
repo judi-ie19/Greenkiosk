@@ -55,12 +55,12 @@ let products = [
     getItems: getItems
     };
     
-    module.exports = GreensKiosk;
-    white_check_mark
-    eyes
-    raised_hands
-    React
-    Reply
+    // module.exports = GreensKiosk;
+    // white_check_mark
+    // eyes
+    // raised_hands
+    // React
+    // Reply
     
     
     
